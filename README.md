@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Sobre
 
-You can use the [editor on GitHub](https://github.com/micro-technologies/micro-technologies.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Seja bem vindo(a)!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Em resumo a µTechnologies é uma iniciativa sem fins lucrativos que visa incentivar o aprendizado e sínteses nos mais diversos assuntos, em especial aqueles relacionados à tecnologia. A ideia é organizar, criar, apontar e manter conteudos tecnico-ciêntfícos para falantes de português brasileiro.
 
-### Markdown
+Pretendemos cumprir este objetivo utilizando a plataforma do GitHub, pois torna possível unificar discussões, pessoas, e código em um só local, de forma que facilite a busca e a relacão entre esses.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A estrutura desta organização foi espelhada [neste excelente projeto.](http://frontendbr.com.br/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/micro-technologies/micro-technologies.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Para uma informação mais detalhada [clique aqui](https://github.com/micro-technologies/sobre/blob/master/README.md).
